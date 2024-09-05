@@ -1,2 +1,2 @@
 # Memefi
-Memefi autotab Bot
+Memefi auto tab Bot
